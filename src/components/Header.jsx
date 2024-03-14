@@ -10,7 +10,7 @@ function Header() {
         <span className="green">
           <GiForkKnifeSpoon />
         </span>
-        <h1>Rezeptis</h1>
+        <h1>Rezeptiss</h1>
       </Logo>
     </Container>
   );
